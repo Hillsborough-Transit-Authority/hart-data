@@ -11,4 +11,4 @@ This guide describes what should be included in issue reports for HART data (e.g
 3. **Expected behavior:** What did you expect to see in the app?
 4. **Observed behavior:** What did you see instead?  Describe your issue in detail here, including the date/time of requests that produced the data.
 5. **Application and Device Type:** What app were you using (e.g., Android, iPhone, Windows Phone, Windows 8, website)?  If a mobile app, what's your device make and model (e.g., Samsung Galaxy S3)?
-6. **Screenshots and links:** Please include a screenshot of the problem if possible, and if you were using the website please provide a link to the page where you saw the problem.
+6. **Screenshots and links:** Please include a screenshot of the problem if possible, and if you were using the website please provide a link to the page where you saw the problem.  If this was a user report via Twitter or other social media, please include a link to the public post and the username of the reporting user.
