@@ -6,7 +6,7 @@ This guide describes what should be included in issue reports for HART data (e.g
 
 **[Search](https://github.com/Hillsborough-Transit-Authority/hart-data/search?q=&ref=cmdform&type=Issues)** for similar entries before submitting your own, there's a good chance somebody else had the same issue or feature request. Show your support with `:+1:` and/or join the discussion. Please submit issues in the following format (as the first post) and feature requests in a similar format:
 
-1. **Summary:** Summarize your issue in one sentence (what goes wrong, what did you expect to happen)
+1. **Summary:** Summarize your issue in one sentence (what goes wrong, what did you expect to happen).  Please also label it using the appropriate labels.
 2. **Steps to reproduce:** How can we reproduce the issue?
 3. **Expected behavior:** What did you expect to see in the app?
 4. **Observed behavior:** What did you see instead?  Describe your issue in detail here, including the date/time of requests that produced the data.
